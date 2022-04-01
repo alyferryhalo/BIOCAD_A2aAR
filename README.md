@@ -27,4 +27,4 @@
 
 Было бы неплохо сделать PAINS, однако с ними возникла небольшая проблема, да и есть мнение, что они плохо работают.
 
-По итогам препроцессинга (Липински, частично lead-likeness, токсофоры) осталось **2138** молекул, найти которые можно в (файле)[https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/accepted_smiles.txt].
+По итогам препроцессинга (Липински, частично lead-likeness, токсофоры) осталось **2138** молекул, найти которые можно в [accepted_smiles.txt](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/accepted_smiles.txt).
