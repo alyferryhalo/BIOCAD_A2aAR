@@ -39,3 +39,6 @@
 
 ## Ранжирование с использованием 3D-структур
 
+Для дальнейших исследований возьмём структуру [4EIY](https://www.rcsb.org/structure/4eiy) в формате .pdb
+
+Полученные на предыдущем шаге SMILES конвертируем в формат **.pdbqt**, подходящий для докинга в Autodock, при помощи [open babel.](http://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) Получившийся файл находится [здесь.](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/molecules.pdbqt)
