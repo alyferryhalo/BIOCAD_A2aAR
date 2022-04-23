@@ -41,7 +41,7 @@
 
 Для дальнейших исследований возьмём структуру [4EIY](https://www.rcsb.org/structure/4eiy) в формате .pdb
 
-Полученные на предыдущем шаге SMILES конвертируем в формат **.pdbqt**, подходящий для докинга в Autodock, при помощи [open babel.](http://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) Получившиеся файлы находится [здесь.](https://github.com/alyferryhalo/BIOCAD_A2aAR/tree/main/moleciles)
+Полученные на предыдущем шаге SMILES конвертируем в формат **.pdbqt**, подходящий для докинга в Autodock, при помощи [open babel.](http://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) Получившиеся файлы находится [здесь.](https://github.com/alyferryhalo/BIOCAD_A2aAR/tree/main/molecules)
 
 Прежде всего удалим лишние молекулы, которые "привязались" к этой структуре. Затем необходимо приготовить саму молекулу белка и проверить, нет ли отсутствующих атомов:
 
@@ -67,4 +67,6 @@
 
 ![image](https://user-images.githubusercontent.com/61160686/164845163-53eeb4ee-89f8-4a05-9185-c0a7f61f96d2.png)
 
-Наконец, можно добавлять лиганды.
+Наконец, можно добавлять лиганды. Однако, как обычно, что-то пошло не по плану, и ни один лиганд не был открыт, из-за чего вся дальнейшая раюота полностью остановилась:
+
+![image](https://user-images.githubusercontent.com/61160686/164944547-c1f1537d-1601-4b10-b49c-d0c76771c710.png)
