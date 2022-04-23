@@ -42,3 +42,29 @@
 Для дальнейших исследований возьмём структуру [4EIY](https://www.rcsb.org/structure/4eiy) в формате .pdb
 
 Полученные на предыдущем шаге SMILES конвертируем в формат **.pdbqt**, подходящий для докинга в Autodock, при помощи [open babel.](http://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) Получившийся файл находится [здесь.](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/molecules.pdbqt)
+
+Прежде всего удалим лишние молекулы, которые "привязались" к этой структуре. Затем необходимо приготовить саму молекулу белка и проверить, нет ли отсутствующих атомов:
+
+![image](https://user-images.githubusercontent.com/61160686/164845065-f5f8386a-37c3-4305-8f66-e08c27c22030.png)
+
+Теперь добавим полярные водороды:
+
+![image](https://user-images.githubusercontent.com/61160686/164845084-3b622979-d75d-4b4c-be89-c1229b2fcfd2.png)
+
+И Kollman Charges:
+
+![image](https://user-images.githubusercontent.com/61160686/164845098-a0ab7346-7ee6-43fc-9a6e-a081166ed561.png)
+
+Теперь проверим, равномерно ли распределены заряды. Оказывается, что нет:
+
+![image](https://user-images.githubusercontent.com/61160686/164845176-abae4c76-c352-4fae-88f9-5e8e7a9b72fc.png)
+
+Распределим заряды равномерно:
+
+![image](https://user-images.githubusercontent.com/61160686/164845198-5f54d1ae-7cce-4a71-9d61-a8de33927b40.png)
+
+И проверим снова. Теперь всё в порядке:
+
+![image](https://user-images.githubusercontent.com/61160686/164845163-53eeb4ee-89f8-4a05-9185-c0a7f61f96d2.png)
+
+Наконец, можно добавлять лиганды.
