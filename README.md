@@ -70,3 +70,5 @@
 Наконец, можно добавлять лиганды. Однако, как обычно, что-то пошло не по плану, и ни один лиганд не был открыт, из-за чего вся дальнейшая раюота полностью остановилась:
 
 ![image](https://user-images.githubusercontent.com/61160686/164944547-c1f1537d-1601-4b10-b49c-d0c76771c710.png)
+
+Ввиду проблем с AutoDock было принято решение использовать ноутбуки [отсюда.](https://github.com/AngelRuizMoreno/Jupyter_Dock) В частности, ноутбук [1.-Molecular_Docking.ipynb](https://github.com/AngelRuizMoreno/Jupyter_Dock/blob/main/1.-Molecular_Docking.ipynb).
