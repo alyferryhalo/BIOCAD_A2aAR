@@ -67,8 +67,10 @@
 
 ![image](https://user-images.githubusercontent.com/61160686/164845163-53eeb4ee-89f8-4a05-9185-c0a7f61f96d2.png)
 
-Наконец, можно добавлять лиганды. Однако, как обычно, что-то пошло не по плану, и ни один лиганд не был открыт, из-за чего вся дальнейшая раюота полностью остановилась:
+Наконец, можно добавлять лиганды. Однако, как обычно, что-то пошло не по плану, и ни один лиганд не был открыт, из-за чего вся дальнейшая работа полностью остановилась:
 
 ![image](https://user-images.githubusercontent.com/61160686/164944547-c1f1537d-1601-4b10-b49c-d0c76771c710.png)
+
+Файл с "чистой" структурой (вместе с сайтами связывания, которые были сочтены AutoDock наиболее интересными) был сохранён как [4eiy_clean.pdb](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/4eiy_clean.pdb).
 
 Ввиду проблем с AutoDock было принято решение использовать ноутбуки [отсюда.](https://github.com/AngelRuizMoreno/Jupyter_Dock) В частности, ноутбук [1.-Molecular_Docking.ipynb](https://github.com/AngelRuizMoreno/Jupyter_Dock/blob/main/1.-Molecular_Docking.ipynb).
