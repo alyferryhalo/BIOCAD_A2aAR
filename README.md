@@ -104,3 +104,9 @@
 <img width="702" alt="Screenshot 2022-08-24 at 19 40 16" src="https://user-images.githubusercontent.com/61160686/186485922-fc737d48-5bb9-4abe-8272-9413c4612dd5.png">
 
 <img width="702" alt="Screenshot 2022-08-24 at 19 42 28" src="https://user-images.githubusercontent.com/61160686/186485940-8945fbef-98de-483a-b550-69d41065367c.png">
+
+### Параметры докинга
+
+<img width="702" alt="Screenshot 2022-08-24 at 19 57 52" src="https://user-images.githubusercontent.com/61160686/186487778-861ac3aa-cec2-4035-a615-deedb0a66e20.png">
+
+<img width="545" alt="Screenshot 2022-08-24 at 19 22 26 2" src="https://user-images.githubusercontent.com/61160686/186487792-dae5247e-636f-4e8e-86e3-6f90a2da10bc.png">
