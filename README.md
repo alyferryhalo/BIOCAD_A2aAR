@@ -112,3 +112,13 @@
 <img width="702" alt="Screenshot 2022-08-24 at 19 57 52" src="https://user-images.githubusercontent.com/61160686/186487778-861ac3aa-cec2-4035-a615-deedb0a66e20.png">
 
 Полученные результаты находятся в файле [mols_docking.csv](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/mols_docking.csv).
+
+## Карты взаимодействия кандидатов
+
+### COc1ccc(-c2nn(CCCC(=O)NCCc3ccc(Cl)cc3)c(=O)c3noc(C)c23)cc1
+
+![COc1ccc(-c2nn(CCCC(=O)NCCc3ccc(Cl)cc3)c(=O)c3noc(C)c23)cc1](https://user-images.githubusercontent.com/61160686/186491357-dcf72495-0092-4203-92b4-e15cbf2d2856.png)
+
+### Cn1ncc2c(NCc3ccccc3)nc(N3CCN(CCO)CC3)nc21
+
+![Cn1ncc2c(NCc3ccccc3)nc(N3CCN(CCO)CC3)nc21](https://user-images.githubusercontent.com/61160686/186491382-9e22fede-fe5a-407e-9956-2cf07d930db2.png)
