@@ -107,6 +107,6 @@
 
 ### Параметры докинга
 
-<img width="702" alt="Screenshot 2022-08-24 at 19 57 52" src="https://user-images.githubusercontent.com/61160686/186487778-861ac3aa-cec2-4035-a615-deedb0a66e20.png">
+<img width="702" alt="Screenshot 2022-08-24 at 19 57 48" src="https://user-images.githubusercontent.com/61160686/186487966-80d14f35-3424-42ec-bfc9-1f2a5b82d024.png">
 
-<img width="545" alt="Screenshot 2022-08-24 at 19 22 26 2" src="https://user-images.githubusercontent.com/61160686/186487792-dae5247e-636f-4e8e-86e3-6f90a2da10bc.png">
+<img width="702" alt="Screenshot 2022-08-24 at 19 57 52" src="https://user-images.githubusercontent.com/61160686/186487778-861ac3aa-cec2-4035-a615-deedb0a66e20.png">
