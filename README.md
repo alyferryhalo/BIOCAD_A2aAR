@@ -84,3 +84,23 @@
 <img width="445" alt="Screenshot 2022-08-24 at 19 19 16" src="https://user-images.githubusercontent.com/61160686/186485048-fea38d75-e08a-42a3-a13e-4e78e3e4c4e5.png">
 
 ### Protein Preparation
+
+При помощи Protein Wizard Preparation оптимизируем структуру 4EIY:
+
+<img width="545" alt="Screenshot 2022-08-24 at 19 22 26" src="https://user-images.githubusercontent.com/61160686/186485644-850cd6e2-d154-44c9-bd16-34a33b07968d.png">
+
+<img width="545" alt="Screenshot 2022-08-24 at 19 22 26" src="https://user-images.githubusercontent.com/61160686/186485681-5f7cd7f5-c569-44f6-9b9b-0d1543749762.png">
+
+Посмотрим заодно на лиганд:
+
+<img width="389" alt="Screenshot 2022-08-24 at 19 34 05" src="https://user-images.githubusercontent.com/61160686/186485750-2b28363f-b5e1-4d91-a890-f81f9919b094.png">
+
+И его позу:
+
+![standard_ligand_interaction_map](https://user-images.githubusercontent.com/61160686/186485771-c7684e04-b8b9-4e42-8b4a-58f6cec80754.png)
+
+### Генерация решётки
+
+<img width="702" alt="Screenshot 2022-08-24 at 19 40 16" src="https://user-images.githubusercontent.com/61160686/186485922-fc737d48-5bb9-4abe-8272-9413c4612dd5.png">
+
+<img width="702" alt="Screenshot 2022-08-24 at 19 42 28" src="https://user-images.githubusercontent.com/61160686/186485940-8945fbef-98de-483a-b550-69d41065367c.png">
