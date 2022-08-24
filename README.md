@@ -110,3 +110,5 @@
 <img width="702" alt="Screenshot 2022-08-24 at 19 57 48" src="https://user-images.githubusercontent.com/61160686/186487966-80d14f35-3424-42ec-bfc9-1f2a5b82d024.png">
 
 <img width="702" alt="Screenshot 2022-08-24 at 19 57 52" src="https://user-images.githubusercontent.com/61160686/186487778-861ac3aa-cec2-4035-a615-deedb0a66e20.png">
+
+Полученные результаты находятся в файле [mols_docking.csv](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/mols_docking.csv).
