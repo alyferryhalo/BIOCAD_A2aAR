@@ -73,4 +73,14 @@
 
 Файл с "чистой" структурой (вместе с сайтами связывания, которые были сочтены AutoDock наиболее интересными) был сохранён как [4eiy_clean.pdb](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/4eiy_clean.pdb).
 
-Ввиду проблем с AutoDock было принято решение использовать ноутбуки [отсюда.](https://github.com/AngelRuizMoreno/Jupyter_Dock) В частности, ноутбук [1.-Molecular_Docking.ipynb](https://github.com/AngelRuizMoreno/Jupyter_Dock/blob/main/1.-Molecular_Docking.ipynb).
+Ввиду проблем с AutoDock было принято решение использовать Schrodinger Maestro.
+
+## Schrodinger Maestro
+
+### Ligand Preparation
+
+Импортируем структуры из файла [tanimoto_smiles.txt](https://github.com/alyferryhalo/BIOCAD_A2aAR/blob/main/tanimoto_smiles.txt) и обрабатываем при помощи LigPrep:
+
+<img width="445" alt="Screenshot 2022-08-24 at 19 19 16" src="https://user-images.githubusercontent.com/61160686/186485048-fea38d75-e08a-42a3-a13e-4e78e3e4c4e5.png">
+
+### Protein Preparation
